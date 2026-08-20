@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+#grid-container {
+    max-width: 90%;
+    margin: auto;
+}
